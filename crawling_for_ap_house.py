@@ -18,6 +18,7 @@ price_max = 300000
 state = "Rio Grande do Norte"
 city = "Natal"
 type_of_property = "house" # options: house, apartament or both
+ADD_LINK = True
 
 first_setup = {"category-selector": "Venda", # or "Aluguel" #
          "location-selector": state, # Estado
@@ -37,11 +38,14 @@ firefox.maximize_window()
 # Accessing the url and doing some stuffs
 firefox.get(url)
 
+time.sleep(5)
+
 xpath = '//*[@id="adopt-accept-all-button"]'
 cookies_button = WebDriverWait(firefox, 10).until(
     EC.element_to_be_clickable((By.XPATH, xpath))
 )
 cookies_button.click()
+
 
 for key, value in first_setup.items():
     dropdown = firefox.find_element(By.ID, key)
@@ -64,36 +68,48 @@ search_button = WebDriverWait(firefox, 10).until(
 )
 search_button.click()
 
-match type_of_property:
-    case "house":
-        xpath_house = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[2]/label/label/input'
-        checkbox_house = WebDriverWait(firefox, 10).until(
-            EC.element_to_be_clickable((By.XPATH, xpath_house))
-        )
-        if not checkbox_house.is_selected():
-            checkbox_house.click()
-    case "apartament":
-        xpath_apartament = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[1]/label/label/input'
-        checkbox_apartament = WebDriverWait(firefox, 10).until(
-            EC.element_to_be_clickable((By.XPATH, xpath_apartament))
-        )
-        if not checkbox_apartament.is_selected():
-            checkbox_apartament.click()
-    case "both":
-        xpath_house = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[2]/label/label/input'
-        checkbox_house = WebDriverWait(firefox, 10).until(
-            EC.element_to_be_clickable((By.XPATH, xpath_house))
-        )
-        if not checkbox_house.is_selected():
-            checkbox_house.click()
+# time.sleep(5)
+WebDriverWait(firefox, 10).until(
+    EC.presence_of_element_located((By.TAG_NAME, "body"))
+)
 
-        xpath_apartament = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[1]/label/label/input'
-        checkbox_apartament = WebDriverWait(firefox, 10).until(
-            EC.element_to_be_clickable((By.XPATH, xpath_apartament))
-        )
-        if not checkbox_apartament.is_selected():
-            checkbox_apartament.click()
+def checkboxes(type_of_property):
+    match type_of_property:
+        case "house":
+            xpath_house = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[2]/label/label/input'
+            checkbox_house = WebDriverWait(firefox, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath_house))
+            )
+            if not checkbox_house.is_selected():
+                firefox.execute_script("arguments[0].scrollIntoView(true)", checkbox_house)
+                checkbox_house.click()
+        case "apartament":
+            xpath_apartament = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[1]/label/label/input'
+            checkbox_apartament = WebDriverWait(firefox, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath_apartament))
+            )
+            if not checkbox_apartament.is_selected():
+                firefox.execute_script("arguments[0].scrollIntoView(true)", checkbox_apartament)
+                checkbox_apartament.click()
+        case "both":
+            xpath_house = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[2]/label/label/input'
+            checkbox_house = WebDriverWait(firefox, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath_house))
+            )
+            if not checkbox_house.is_selected():
+                firefox.execute_script("arguments[0].scrollIntoView(true)", checkbox_house)
+                checkbox_house.click()
 
+            xpath_apartament = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[1]/label/label/input'
+            checkbox_apartament = WebDriverWait(firefox, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath_apartament))
+            )
+            if not checkbox_apartament.is_selected():
+                firefox.execute_script("arguments[0].scrollIntoView(true)", checkbox_apartament)
+                checkbox_apartament.click()
+
+
+checkboxes(type_of_property)
 
 time.sleep(2)
 firefox.execute_script("window.scrollTo({top: 0, behavior: 'smooth'});")
@@ -173,6 +189,13 @@ def find_house_location(house_section):
     house_location = house_section.find_element(By.XPATH, ".//div[2]/div[2]/div/div/div[1]/p")
     return house_location.text
 
+def add_house_link(house_section):
+    WebDriverWait(firefox, 10).until(
+        EC.presence_of_element_located((By.XPATH, './/a'))
+    )
+    house_link = house_section.find_element(By.XPATH, ".//a")
+    return house_link.text
+
 
 def crawl_house_info(index=0, dict_houses_info=None):
     # time.sleep(3)
@@ -193,8 +216,14 @@ def crawl_house_info(index=0, dict_houses_info=None):
         house_price = find_house_price(section)
         house_location = find_house_location(section)
 
-        dict_houses_info[index]={"house_info": house_info, "house_price": house_price, \
+        if ADD_LINK == False:
+            dict_houses_info[index]={"house_info": house_info, "house_price": house_price, \
                                  "house_location": house_location}
+        else:
+            house_link = add_house_link(section)
+            dict_houses_info[index]={"house_info": house_info, "house_price": house_price, \
+                                 "house_location": house_location, "house_link": house_link}
+            
         # print("-" * 30)
         index+=1
     return index, dict_houses_info

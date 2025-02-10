@@ -53,5 +53,5 @@ def fix_as_csv(dict):
 
 
 dict = fix_as_csv(dict)
-# save_dict_in_file(dict, "houses_dict.json")
+save_csv_in_file(dict, "houses_dict.csv")
 print(dict)
