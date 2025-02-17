@@ -1,151 +1,251 @@
-quartos,m2_quadrado,garagem,banheiros,direto com o proprietario,preço,cidade,bairro
-4,120,2,3,1,R$ 290.000,Natal, Tirol
-3,196,2,2,0,R$ 225.000,Natal, Neópolis
-3,200,3,2,0,R$ 220.000,Natal, Pitimbu
-2,155,1,2,1,R$ 250.000,Natal, Pajuçara
-5,NULL,1,3,1,R$ 250.000,Natal, Barro Vermelho
-2,246,1,1,1,R$ 300.000,Natal, Dix-Sept Rosado
-3,NULL,2,2,1,R$ 260.000,Natal, Candelária
-3,156,2,4,1,R$ 180.000,Natal, Alecrim
-2,300,2,1,1,R$ 150.000,Natal, Cidade da Esperança
-2,126,1,2,0,R$ 200.000,Natal, Nova Descoberta
-3,146,1,2,0,R$ 170.000,Natal, Lagoa Nova
-2,360,4,1,0,R$ 230.000,Natal, Pitimbu
-4,230,2,4,0,R$ 299.990,Natal, Neópolis
-5,203,2,5,0,R$ 289.990,Natal, Rocas
-4,230,4,4,0,R$ 250.000,Natal, Pitimbu
-3,180,2,2,0,R$ 259.000,Natal, Neópolis
-4,252,1,5,1,R$ 268.580,Natal, Ponta Negra
-3,70,1,2,0,R$ 287.000,Natal, Alecrim
-2,80,2,2,1,R$ 240.000,Natal, Tirol
-2,110,1,1,0,R$ 185.000,Natal, Planalto
-4,300,1,4,0,R$ 210.000,Natal, Cidade Alta
-4,216,3,3,1,R$ 300.000,Natal, Potengi
-2,78,1,3,1,R$ 215.000,Natal, Praia do Meio
-5,NULL,1,5,1,R$ 170.000,Natal, Quintas
-3,180,NULL,1,0,R$ 253.900,Natal, Cidade da Esperança
-3,180,1,1,0,R$ 229.000,Natal, Cidade da Esperança
-3,239,1,2,0,R$ 260.000,Natal, Cidade da Esperança
-4,180,2,2,0,R$ 229.000,Natal, Cidade da Esperança
-2,180,NULL,1,0,R$ 230.000,Natal, Cidade da Esperança
-3,160,2,4,0,R$ 295.000,Natal, Pitimbu
-3,240,3,3,0,R$ 280.000,Natal, Pitimbu
-2,90,2,2,0,R$ 280.000,Natal, Ponta Negra
-4,65,3,2,0,R$ 260.000,Natal, Nordeste
-3,150,2,4,0,R$ 270.000,Natal, Candelária
-2,69,NULL,1,0,R$ 170.000,Natal, Alecrim
-3,210,1,1,0,R$ 230.000,Natal, Redinha
-2,NULL,1,1,1,R$ 150.000,Natal, Rocas
-4,140,2,1,0,R$ 280.000,Natal, Potengi
-4,200,3,4,0,R$ 250.000,Natal, Pitimbu
-3,116,2,3,1,R$ 220.000,Natal, Capim Macio
-4,175,1,3,1,R$ 300.000,Natal, Alecrim
-4,124,3,3,0,R$ 210.000,Natal, Nova Descoberta
-5,152,2,2,0,R$ 230.000,Natal, Pajuçara
-3,NULL,1,3,1,R$ 270.000,Natal, Candelária
-4,200,2,2,0,R$ 160.000,Natal, Pitimbu
-3,103,3,2,0,R$ 150.000,Natal, Nova Descoberta
-2,140,2,2,0,R$ 150.000,Natal, Ponta Negra
-2,82,1,2,0,R$ 150.000,Natal, Pitimbu
-2,NULL,1,2,1,R$ 150.000,Natal, Pajuçara
-2,74,1,1,0,R$ 255.000,Natal, Ponta Negra
-3,150000,1,2,0,R$ 170.000,Natal, Capim Macio
-2,NULL,2,2,1,R$ 180.000,Natal, Nossa Senhora de Nazaré
-3,66,2,2,0,R$ 193.000,Natal, Capim Macio
-4,200,1,2,1,R$ 240.000,Natal, Cidade Alta
-3,286,3,2,0,R$ 264.000,Natal, Lagoa Nova
-1,155,1,1,0,R$ 180.900,Natal, Pajuçara
-3,200,2,2,0,R$ 280.000,Natal, Potengi
-3,NULL,1,3,1,R$ 150.000,Natal, Redinha
-3,130,2,2,0,R$ 160.000,Natal, Ponta Negra
-2,180,2,2,0,R$ 170.000,Natal, Lagoa Nova
-3,135,2,2,0,R$ 190.000,Natal, Ponta Negra
-3,130,2,2,0,R$ 190.000,Natal, Pitimbu
-2,110,2,2,0,R$ 170.000,Natal, Ponta Negra
-3,150,2,3,0,R$ 280.000,Natal, Candelária
-3,150,2,2,0,R$ 150.000,Natal, Neópolis
-3,135,2,3,0,R$ 250.000,Natal, Ponta Negra
-3,86,NULL,2,0,R$ 175.000,Natal, Pajuçara
-3,113,1,2,0,R$ 182.000,Natal, Lagoa Nova
-3,120,2,2,0,R$ 180.000,Natal, Nova Descoberta
-3,136,2,2,0,R$ 198.000,Natal, Capim Macio
-3,120,2,2,0,R$ 165.000,Natal, Nova Descoberta
-3,109,2,3,0,R$ 180.000,Natal, Ponta Negra
-3,120,2,2,0,R$ 170.000,Natal, Pitimbu
-3,81,2,1,0,R$ 250.000,Natal, Pajuçara
-3,NULL,1,2,1,R$ 150.000,Natal, Nossa Senhora da Apresentação
-2,NULL,5,2,1,R$ 220.000,Natal, Tirol
-5,300,4,2,1,R$ 150.000,Natal, Felipe Camarão
-4,180,2,2,0,R$ 270.000,Natal, Pitimbu
-3,160,2,4,0,R$ 295.000,Natal, Pitimbu
-2,100,2,1,1,R$ 150.000,Natal, Planalto
-NULL,230,NULL,NULL,1,R$ 230.000,Natal, Nossa Senhora de Nazaré
-3,110,3,2,0,R$ 245.000,Natal, Pitimbu
-5,250,NULL,5,1,R$ 200.000,Natal, Cidade Alta
-2,100,1,1,0,R$ 250.000,Natal, Lagoa Nova
-3,360,3,1,1,R$ 215.000,Natal, Pitimbu
-2,100,2,2,0,R$ 175.000,Natal, Igapó
-3,148,2,3,0,R$ 300.000,Natal, Nova Descoberta
-3,120,2,1,0,R$ 300.000,Natal, Planalto
-5,NULL,3,4,1,R$ 300.000,Natal, Planalto
-3,120,1,3,1,R$ 175.000,Natal, Pajuçara
-2,200,1,1,0,R$ 185.000,Natal, Planalto
-2,71,1,2,0,R$ 250.000,Natal, Planalto
-NULL,NULL,NULL,NULL,1,R$ 180.000,Natal, Candelária
-2,65,1,1,0,R$ 195.000,Natal, Planalto
-3,NULL,2,2,0,R$ 150.000,Natal, Candelária
-3,180,2,2,0,R$ 210.000,Natal, Neópolis
-3,300,2,3,0,R$ 170.000,Natal, Potengi
-2,200,2,2,0,R$ 160.000,Natal, Potengi
-3,250,3,4,0,R$ 200.000,Natal, Pitimbu
-3,200,2,4,0,R$ 200.000,Natal, Barro Vermelho
-3,98,2,2,0,R$ 180.000,Natal, Candelária
-3,90,1,2,0,R$ 160.000,Natal, Potengi
-3,190,3,3,0,R$ 230.000,Natal, Pitimbu
-3,170,2,3,0,R$ 170.000,Natal, Candelária
-3,200,2,3,0,R$ 180.000,Natal, Pitimbu
-4,220,2,3,0,R$ 200.000,Natal, Candelária
-3,170,1,2,0,R$ 180.000,Natal, Nova Descoberta
-3,117,1,2,0,R$ 150.000,Natal, Alecrim
-3,150,1,3,0,R$ 200.000,Natal, Pitimbu
-3,253,3,3,0,R$ 280.000,Natal, Ponta Negra
-3,161,1,3,0,R$ 210.000,Natal, Candelária
-3,100,3,2,0,R$ 150.000,Natal, Potengi
-2,50,1,1,1,R$ 180.000,Natal, Potengi
-2,85,1,1,0,R$ 165.000,Natal, Ponta Negra
-2,140,1,3,0,R$ 180.000,Natal, Ponta Negra
-2,116,1,2,0,R$ 187.000,Natal, Lagoa Nova
-2,100,1,2,0,R$ 200.000,Natal, Nova Descoberta
-2,120,2,1,0,R$ 175.000,Natal, Potengi
-3,160,1,2,0,R$ 200.000,Natal, Candelária
-2,288,2,2,1,R$ 175.000,Natal, Igapó
-2,76,2,2,0,R$ 295.000,Natal, Ponta Negra
-2,200,2,2,1,R$ 180.000,Natal, Pitimbu
-3,168,2,2,0,R$ 150.000,Natal, Ponta Negra
-3,150,3,2,1,R$ 150.000,Natal, Lagoa Azul
-2,NULL,1,2,1,R$ 235.000,Natal, Pajuçara
-3,100,1,3,1,R$ 155.000,Natal, Pajuçara
-3,NULL,2,2,1,R$ 200.000,Natal, Pitimbu
-2,190,2,2,0,R$ 170.000,Natal, Lagoa Nova
-4,242,NULL,3,0,R$ 290.000,Natal, Neópolis
-3,90,4,2,0,R$ 249.000,Natal, Pitimbu
-1,NULL,NULL,1,1,R$ 200.000,Natal, Dix-Sept Rosado
-3,110,1,2,0,R$ 160.000,Natal, Cidade da Esperança
-4,200000,3,2,1,R$ 260.000,Natal, Nordeste
-5,140,1,5,0,R$ 299.990,Natal, Lagoa Seca
-3,200,2,2,0,R$ 235.000,Natal, Capim Macio
-1,42,1,1,0,R$ 220.000,Natal, Areia Preta
-3,180,1,2,1,R$ 250.000,Natal, Cidade da Esperança
-2,186,2,2,1,R$ 180.000,Natal, Pajuçara
-3,NULL,NULL,2,0,R$ 180.000,Natal, Potengi
-1,43,1,1,0,R$ 260.000,Natal, Ponta Negra
-3,NULL,NULL,2,0,R$ 160.000,Natal, Potengi
-2,126,1,1,1,R$ 160.000,Natal, Felipe Camarão
-3,NULL,1,2,1,R$ 170.000,Natal, Ponta Negra
-5,NULL,4,3,1,R$ 280.000,Natal, Lagoa Azul
-2,100,2,1,0,R$ 175.000,Natal, Igapó
-2,65,3,2,0,R$ 219.999,Natal, Ponta Negra
-2,77,1,2,0,R$ 255.000,Natal, Capim Macio
-2,170,2,1,0,R$ 200.000,Natal, Capim Macio
-2,NULL,2,3,1,R$ 180.000,Natal, Potengi
-4,243,2,3,0,R$ 230.000,Natal, Felipe Camarão
+quartos,m2_quadrado,garagem,banheiros,direto com o proprietario,preço,cidade,bairro,link
+4,120,2,3,1,R$ 290.000,Natal, Tirol,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-apartamento-por-do-sol-1347572674
+3,200,2,3,1,R$ 279.999,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/otima-casa-no-bairro-neopolis-conjunto-pirangi-1361000877
+1,130,1,1,0,R$ 280.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-neopolis-ampla-1-quarto-com-2-kitnets-ao-fundo-boa-localizacao-130m-1378837412
+4,114,1,2,0,R$ 260.000,Natal, Nossa Senhora de Nazaré,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-em-natal-rn-no-bairro-nossa-senhora-de-nazare-1378810862
+3,85,1,2,1,R$ 245.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-terrea-com-garagem-em-otima-localizacao-1378787890
+4,NULL,NULL,3,1,R$ 220.000,Natal, Nordeste,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-4-quartos-1371988861
+2,65,2,1,0,R$ 170.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-bairro-planalto-natal-rn-1378636004
+3,110,1,2,0,R$ 180.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-pitimbu-rl06-1356091865
+3,120,1,3,1,R$ 155.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-com-urgencia-na-av-principal-155-mil-valor-avista-baixei-p-vender-1245188759
+2,105,2,2,1,R$ 185.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-1378494929
+2,100,2,2,1,R$ 170.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-condominio-no-bairro-planalto-1378430968
+3,119,NULL,3,0,R$ 280.000,Natal, Lagoa Seca,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-dormitorios-a-venda-119-m-por-r-280-000-00-lagoa-seca-natal-rn-1378399740
+2,300,1,1,0,R$ 290.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-casa-com-ponto-comercial-no-planalto-1378399624
+3,170,2,3,0,R$ 220.000,Natal, Nossa Senhora da Apresentação,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-medindo-170-m-area-gourmet-portao-eletronico-no-bairro-n-s-apresentacao-1378370498
+4,140,2,2,0,R$ 260.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-na-itapetinga-conjunto-santarem-1378342791
+3,104,1,2,1,R$ 150.000,Natal, Dix-Sept Rosado,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-vender-em-cidade-nova-natal-rn-1377077882
+3,130,2,2,0,R$ 195.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-ponta-negra-jbc96-1378231754
+4,194,2,2,0,R$ 275.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-neopolis-natal-rn-1378228781
+3,100,2,2,0,R$ 180.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-neopolis-fa30-1378227745
+2,200,2,2,0,R$ 300.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-espacosa-em-neopolis-jm010-1378222737
+3,140,2,2,0,R$ 220.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-jm009-1378218281
+4,194,2,3,0,R$ 275.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-4-dormitorios-a-venda-194-m-por-r-275-000-00-neopolis-natal-rn-1378110581
+4,200,2,2,1,R$ 300.000,Natal, Bom Pastor,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-1-andar-so-venda-1378069833
+4,379,5,2,1,R$ 270.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-de-379-m2-em-ponta-negra-1378064677
+2,180,3,2,0,R$ 230.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-neopolis-cod-def-09-1378061169
+3,140,1,2,0,R$ 160.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-jm001-1378054647
+3,148,2,2,0,R$ 250.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/barro-vermelho-ah92-1378038325
+4,NULL,1,2,1,R$ 150.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-soledade-2-1378031131
+3,100,1,1,0,R$ 220.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-residencial-comercial-em-ponta-negra-1378030337
+4,10,1,2,1,R$ 150.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-em-bairro-felipe-camarao-1377924545
+3,130,2,1,0,R$ 160.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-cidade-da-esperanca-baz19-1377896300
+3,130,2,1,0,R$ 150.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-potengi-baz18-1377895718
+2,110,2,2,0,R$ 180.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-ponta-negra-jbc95-1377893908
+3,180,2,2,0,R$ 185.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-cod-def-07-1377885262
+3,160,2,2,0,R$ 218.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-rl02-1377862641
+2,150,1,2,0,R$ 160.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-na-cidade-satelite-con-1377858825
+3,NULL,NULL,2,0,R$ 150.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/imovel-a-venda-em-natal-1357678877
+3,160,NULL,2,0,R$ 300.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-ou-alugo-casa-no-conjunto-jardim-america-natal-rn-1377847069
+5,460,5,5,1,R$ 270.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-impecavel-enorme-e-bem-localizada-no-potengi-1377835082
+3,80,1,2,1,R$ 160.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-condominio-fechado-1377808170
+4,220,2,2,1,R$ 300.000,Natal, Bom Pastor,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-com-ponto-comercial-1377792826
+3,NULL,2,2,0,R$ 200.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-cidade-da-esperanca-olx209-1377770712
+3,NULL,1,2,0,R$ 150.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-barro-vermelho-olx207-1377769155
+3,NULL,2,2,0,R$ 250.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-olx206-1377763720
+2,170,2,1,0,R$ 300.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/seu-novo-lar-em-neopolis-conforto-e-praticidade-1377763308
+3,NULL,1,2,0,R$ 200.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-potengi-a-venda-olx205-1377762727
+3,NULL,2,1,1,R$ 170.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/2-casa-uma-no-terreo-outra-no-primeiro-andar-1376159748
+3,150,3,1,0,R$ 150.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-150m-ll004-1377708649
+2,75,1,1,0,R$ 220.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-venda-minha-casa-minha-vida-2-quartos-suite-garagem-quintal-em-planalto-natal-rn-1377681096
+2,136,2,2,0,R$ 170.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-cidade-satelite-con-1377600228
+3,140,2,3,0,R$ 160.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-nova-descoberta-con-1377597527
+3,150,1,3,0,R$ 150.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-con-1377591047
+3,150,3,1,0,R$ 150.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-potengi-150m-ll005-1377589427
+3,140,3,1,0,R$ 150.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-ll001-1377586946
+3,NULL,1,2,0,R$ 160.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-potengi-panatis-olx203-1377586788
+3,NULL,1,2,0,R$ 150.000,Natal, Guarapes,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-planalto-olx201-1377585274
+2,100,2,3,0,R$ 180.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/ponta-negra-ld123-1319284060
+2,NULL,NULL,2,1,R$ 180.000,Natal, Rocas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-bairro-das-rocas-1377527452
+4,234,5,3,0,R$ 285.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/jb-casa-em-neopolis-em-area-comercial-4-quartos-1377507888
+5,500,5,3,1,R$ 222.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-de-praia-na-redinha-nova-1336109934
+3,219,3,3,0,R$ 260.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-pitimbu-natal-rn-1377303824
+4,150,NULL,3,0,R$ 190.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-conjunto-nova-natal-1377260497
+2,200,1,2,0,R$ 200.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-conjunto-nova-natal-1377260496
+2,105,1,1,0,R$ 190.000,Natal, Quintas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-2-dormitorios-a-venda-105-m-por-r-190-000-00-alecrim-natal-rn-1377254901
+3,86,2,1,0,R$ 198.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-dormitorios-a-venda-86-m-por-r-198-000-00-potengi-natal-rn-1377254812
+3,192,2,3,0,R$ 298.000,Natal, Quintas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-dormitorios-a-venda-192-m-por-r-298-000-00-quintas-natal-rn-1377254806
+2,80,1,2,0,R$ 260.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casas-duplex-prontas-em-zona-norte-2-e-3-4-suite-66m-79m-mar-do-atlantico-1377221045
+2,70,1,1,0,R$ 207.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-pronta-em-condominio-fechado-em-zona-norte-1-4-70m-ultima-casa-1377220824
+2,NULL,1,4,1,R$ 290.000,Natal, Nossa Senhora da Apresentação,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-em-jardim-petropolis-1377144190
+2,NULL,1,1,1,R$ 185.000,Natal, Nossa Senhora da Apresentação,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-ou-troca-em-outra-1377084474
+2,NULL,1,1,1,R$ 180.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-duplex-em-condominio-venda-em-parnamirim-no-bairro-nova-esperanca-por-tras-da-upa-1377068986
+3,217,3,3,0,R$ 290.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-de-esquina-com-3-4-no-pitimbu-1376952565
+3,110,2,1,0,R$ 180.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-em-natal-pajucara-3-dormitorios-1-banheiro-2-vagas-1377002201
+4,212,1,5,1,R$ 220.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-duplex-otima-localizacao-1376912115
+2,120,NULL,1,0,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-potengi-natal-rn-1376889382
+3,200,3,3,0,R$ 260.000,Natal, Lagoa Seca,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-lagoa-seca-natal-rn-1376725487
+4,NULL,2,4,1,R$ 200.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/repasso-casa-duplex-1376680886
+2,NULL,NULL,1,1,R$ 200.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-em-otima-localizacao-1376624333
+5,180,2,4,0,R$ 290.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/excelente-casa-felipe-camarao-natal-rn-1376604523
+3,200,3,2,0,R$ 180.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-ampla-1376597276
+2,NULL,1,1,0,R$ 225.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-no-oasis-paradise-seguranca-24h-e-localizacao-privilegiada-1376537692
+2,65,NULL,1,0,R$ 180.000,Natal, Cidade Alta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-cidade-alta-natal-1376399958
+2,71,2,2,0,R$ 190.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/linda-casa-no-planalto-1376387316
+4,NULL,2,3,1,R$ 190.000,Natal, Nossa Senhora da Apresentação,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-proximo-da-avenida-boa-sorte-nossa-senhora-da-apresentacao-1376343030
+2,100,1,1,0,R$ 185.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-duplex-terreno-5x35-com-2-quartos-sendo-1-suite-em-planalto-natal-rn-1376337997
+3,150,2,3,1,R$ 200.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/primeiro-andar-1376332280
+4,250,2,2,0,R$ 220.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-conjunto-pirangi-1359727942
+3,360,3,1,1,R$ 205.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-casa-no-pitimbu-1376243560
+3,NULL,4,3,1,R$ 290.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-1376229638
+4,243,2,3,0,R$ 230.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-perto-do-detra-rn-de-esquina-excelente-pra-comercio-aceita-financiamento-b-1376228027
+2,100,1,1,1,R$ 155.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-2-quartos-em-condominio-fechado-1376214989
+3,180,2,2,0,R$ 180.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/pitimbu-ld1315-1360582098
+3,200,2,2,1,R$ 200.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-1376182077
+2,160,2,2,0,R$ 200.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-rn1511-1318834068
+3,110,2,2,0,R$ 250.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-cod-vf-07-1328814894
+2,200,2,2,0,R$ 215.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-neopolis-rnf-44-1285401715
+3,190,2,3,0,R$ 220.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-neopolis-cod-rv-01-1328161329
+3,220,2,2,0,R$ 220.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-rnf-41-1355412241
+5,250,2,4,0,R$ 217.000,Natal, Ribeira,https://rn.olx.com.br/rio-grande-do-norte/imoveis/excelente-casa-em-petropolis-com-4-apartamentos-de-2-quartos-cada-1360594518
+3,177,2,2,0,R$ 169.949,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/seu-novo-lar-no-pajucara-2-casas-no-mesmo-terreno-espaco-e-conforto-para-sua-familia-1376066354
+2,NULL,1,1,1,R$ 160.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-em-parnamirim-1376020618
+2,100000,1,2,0,R$ 160.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-lagoa-nova-brt0045-1357689480
+3,NULL,4,2,1,R$ 210.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-quartos-em-condominio-fechado-1375913178
+3,196,2,2,0,R$ 225.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/neopolis-ah19-1360265738
+3,200,3,2,0,R$ 220.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oferta-casa-3-4-suite-200m-no-pitimbu-1375849066
+2,155,1,2,1,R$ 250.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-2-4-no-famville-nao-perca-essa-oportunidade-1375801183
+5,NULL,1,3,1,R$ 250.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-natal-rn-avenida-jaguarari-1375774792
+2,246,1,1,1,R$ 300.000,Natal, Dix-Sept Rosado,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-duas-casas-e-vila-com-quatro-quartos-e-dois-banheiros-comunitarios-1375705021
+3,156,2,4,1,R$ 180.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-garagem-em-otima-localizacao-1375623379
+2,300,2,1,1,R$ 150.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-2quartos-1375579339
+2,126,1,2,0,R$ 200.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/nova-descoberta-ah-14-1360025752
+3,146,1,2,0,R$ 170.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/lagoa-nova-ah17-1360037790
+2,360,4,1,0,R$ 230.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oferta-casa-2-4-c-quintal-grande-360m2-no-pitimbu-1375511523
+4,230,2,4,0,R$ 285.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oferta-casa-4-4-ponto-comercial-na-melhor-localizacao-de-neopolis-1375498607
+5,203,2,5,0,R$ 289.990,Natal, Rocas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oferta-maravilhosa-casa-duplex-localizacao-privilegiada-rocas-1375498238
+4,252,1,5,1,R$ 268.580,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-4-suites-a-5-minutos-do-shopping-midway-1375412755
+3,70,1,2,0,R$ 287.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-se-casa-duplex-no-cond-dom-eugenio-bairro-bom-pasto-valor-287mil-reais-1148410822
+2,80,2,2,1,R$ 240.000,Natal, Tirol,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-buzios-condominio-fechado-com-piscina-1375324223
+2,110,1,1,0,R$ 185.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-casa-no-planalto-em-condominio-fechado-1375281891
+4,300,1,4,0,R$ 210.000,Natal, Cidade Alta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-4-4-no-centro-da-cidade-1375231029
+4,216,3,3,1,R$ 300.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-soledade-2-1375204489
+5,NULL,1,5,1,R$ 170.000,Natal, Quintas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/predio-com-tres-casas-a-venda-170-mil-reais-1375174801
+3,180,NULL,1,0,R$ 253.900,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-1241696314
+3,180,1,1,0,R$ 229.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-proxima-ao-super-facil-atacado-1358925012
+3,239,1,2,0,R$ 260.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-240-m-em-frente-a-degepol-em-lagoa-nova-1287727263
+4,180,2,2,0,R$ 229.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-1211072532
+2,180,NULL,1,0,R$ 230.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-proxima-ao-detran-1243873571
+3,160,2,4,0,R$ 295.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/belissima-casa-reformada-3-suites-160m2-perfeita-localizacao-bairro-pitimbu-1375103998
+3,240,3,3,0,R$ 280.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/excelente-casa-3-quartos-sendo-2-suites-sombra-piscina-240m2-tima-localizacao-1375101846
+2,90,2,2,0,R$ 280.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/aconchegante-casa-a-700m-da-praia-de-ponta-negra-1374989754
+4,65,3,2,0,R$ 260.000,Natal, Nordeste,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-nordeste-natal-rn-1374845631
+3,150,2,4,0,R$ 270.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/imovel-casa-venda-candelaria-oportunidade-metros-quadrados-com-3-quartos-em-candelaria-n-1374743497
+2,69,NULL,1,0,R$ 170.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-alecrim-1374656949
+3,210,1,1,0,R$ 230.000,Natal, Redinha,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-praia-da-redinha-ha-5-minutos-do-novo-mercado-e-pontos-turisticos-da-cidade-do-sol-1374580939
+3,375,NULL,3,0,R$ 290.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-pitimbu-natal-rn-1374498746
+2,NULL,1,1,1,R$ 150.000,Natal, Rocas,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-nas-rocas-1374429170
+3,116,2,3,1,R$ 220.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-1374386341
+4,175,1,3,1,R$ 290.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oportunidade-no-alecrim-av-11-1374290570
+4,124,3,3,0,R$ 210.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-em-natal-nova-descoberta-venda-ou-aluga-1374219440
+5,152,2,2,0,R$ 230.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-estrutura-para-duas-residencias-a-venda-pajucara-zona-norte-de-natal-rn-1374146213
+3,NULL,1,3,1,R$ 270.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-candelaria-c-3-qts-sdo-2-stes-1374115169
+2,NULL,1,2,1,R$ 150.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vende-se-casa-em-pajucara-otima-localizacao-1374016302
+2,74,1,1,0,R$ 255.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-duplex-com-2-quartos-sendo-1-suite-em-ponta-negra-natal-rn-1373994432
+3,150000,1,2,0,R$ 170.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-em-capim-macio-ld0019-1357677494
+2,NULL,2,2,1,R$ 180.000,Natal, Nossa Senhora de Nazaré,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-pra-vende-1373932437
+3,66,2,2,0,R$ 193.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-em-capim-macio-res-serra-do-cabugi-i-3-quartos-cozinha-sala-e-banheiro-1241316123
+4,200,1,2,1,R$ 240.000,Natal, Cidade Alta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-energia-solar-1373888534
+3,286,3,2,0,R$ 264.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-conjunto-gramore-1373874600
+3,200,2,2,0,R$ 280.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-santarem-com-piscina-em-potengi-natal-rn-1373686907
+3,NULL,1,3,1,R$ 150.000,Natal, Redinha,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-na-redinha-proximo-ao-caju-de-pedra-1373669783
+3,86,NULL,2,0,R$ 175.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-no-pajucara-proximo-ao-expansivo-1373635960
+3,113,1,2,0,R$ 182.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/lagoa-nova-ah03-1357679628
+3,81,2,1,0,R$ 250.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-condominio-fanville-1373437752
+3,NULL,1,2,1,R$ 150.000,Natal, Nossa Senhora da Apresentação,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-ou-troco-casa-1373419555
+2,NULL,5,2,1,R$ 220.000,Natal, Tirol,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-de-praia-1373403824
+5,300,4,2,1,R$ 150.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-piscina-em-felipe-camarao-1314821564
+4,180,2,2,0,R$ 270.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-bairro-cidade-satelite-natal-rn-1373322767
+3,160,2,4,0,R$ 295.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/venda-de-casa-no-pitimbu-perfeita-para-voce-1373318858
+2,100,2,1,1,R$ 150.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/condominio-genipabu-a-ver-o-mar-1373277954
+NULL,230,NULL,NULL,1,R$ 230.000,Natal, Nossa Senhora de Nazaré,https://rn.olx.com.br/rio-grande-do-norte/imoveis/predio-em-otima-localizacao-1373259882
+3,110,3,2,0,R$ 245.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/imovel-casa-para-venda-com-3-quartos-1suite-em-cidade-satelite-pitimbu-natal-rn-1373239992
+5,250,NULL,5,1,R$ 200.000,Natal, Cidade Alta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-cidade-alta-terreno-7x-14-1373221179
+2,100,1,1,0,R$ 250.000,Natal, Lagoa Nova,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-2-dormitorios-a-venda-100-m-por-r-250-000-00-lagoa-nova-natal-rn-1373196511
+3,360,3,1,1,R$ 215.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/excelente-oportunidade-no-satelite-com-otima-localizacao-1373187232
+2,100,2,2,0,R$ 169.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-igapo-natal-rn-1373170091
+3,148,2,3,0,R$ 280.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-nova-descoberta-natal-rn-1373170063
+3,120,2,1,0,R$ 300.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-condominio-lado-da-sombra-energia-solar-3-quartos-1-suite-e-closet-planalto-na-1373099537
+5,NULL,3,4,1,R$ 300.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-no-planalto-1373088369
+2,200,1,1,0,R$ 185.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/adquira-sua-casa-dos-sonhos-no-planalto-1373049525
+2,71,1,2,0,R$ 250.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/mf-casas-duplex-no-planalto-71m-2-4-2-banheiros-sociais-excelente-acabamento-1373008946
+NULL,NULL,NULL,NULL,1,R$ 180.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-otima-localizacao-1372971279
+2,65,1,1,0,R$ 195.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/residencial-areias-do-planalto-1372952760
+3,NULL,2,2,0,R$ 150.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-cod-rnf-33-1356157037
+3,180,2,2,0,R$ 210.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-neopolis-cod-rn-10-1355838649
+3,300,2,3,0,R$ 170.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-quarto-em-potengi-c-o-n-1329034304
+2,200,2,2,0,R$ 160.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-2-quartos-em-potengi-c-o-n-1337223074
+3,250,3,4,0,R$ 200.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-pitimbu-de-3-quartos-proximo-a-panificadora-sanvalle-co-n-1337150289
+3,200,2,4,0,R$ 200.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-quartos-em-barro-vermelho-c-o-n-1337236021
+3,98,2,2,0,R$ 180.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-quartos-em-candelaria-c-o-n-1337285295
+3,90,1,2,0,R$ 160.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-com-3-quartos-no-conj-soledade-c-o-n-1346438756
+3,190,3,3,0,R$ 230.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-satelite-com-3-quartos-c-o-n-1346456233
+3,170,2,3,0,R$ 170.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-c-o-n-1346675754
+3,200,2,3,0,R$ 180.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-pitimbu-c-o-n-1347590357
+4,220,2,3,0,R$ 200.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-con-1355352639
+3,170,1,2,0,R$ 180.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-nova-descoberta-con-1355512053
+3,117,1,2,0,R$ 150.000,Natal, Alecrim,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-alecrim-de-3-4-con-1355896720
+3,150,1,3,0,R$ 200.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-pitimbu-com-suite-con-1356201234
+3,253,3,3,0,R$ 280.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-venda-rapida-con-1356086414
+3,161,1,3,0,R$ 210.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-con-1356184790
+3,100,3,2,0,R$ 150.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-conj-santa-catarina-con-1356178645
+2,50,1,1,1,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-terrea-com-portao-em-otima-localizacao-em-santa-cruz-do-inhare-1372898061
+2,120,2,1,0,R$ 175.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-potengi-proximo-a-itapetinga-1372889330
+2,288,2,2,1,R$ 169.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-c-escritura-publica-1371123953
+2,76,2,2,0,R$ 295.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-1372732386
+3,168,2,2,0,R$ 150.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-brt0021-1350528252
+3,150,3,2,1,R$ 150.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-grande-com-3-quartos-no-conjunto-nova-natal-1372682491
+2,NULL,1,2,1,R$ 235.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-pronta-para-morar-em-pajucara-1372674451
+3,100,1,3,1,R$ 155.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/2-casas-na-pompeia-1372655078
+3,NULL,2,2,1,R$ 200.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/otima-casa-em-macaiba-localidade-privilegiada-1372592566
+4,242,NULL,3,0,R$ 290.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-com-242m-construidos-em-um-terreno-de-285m-e-localizacao-privilegiada-no-ba-1372572334
+1,NULL,NULL,1,1,R$ 200.000,Natal, Dix-Sept Rosado,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-em-otima-localizacao-1370793864
+3,110,1,2,0,R$ 160.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-na-cidade-da-esperanca-pe27-1372493090
+4,200000,3,2,1,R$ 260.000,Natal, Nordeste,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-aconchegante-1372487488
+5,140,1,5,0,R$ 299.990,Natal, Lagoa Seca,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-lagoa-seca-versatilidade-e-localizacao-estrategica-por-apenas-r-319-990-1372441734
+3,200,2,2,0,R$ 235.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-cod-rnf-15-1372351025
+1,42,1,1,0,R$ 220.000,Natal, Areia Preta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-no-edificio-solar-de-areia-preta-1287759827
+3,180,1,2,1,R$ 250.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-na-cidade-da-esperanca-1372316023
+2,186,2,2,1,R$ 180.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-1372300616
+3,NULL,NULL,2,0,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-panatis-codpro02-1372273025
+1,43,1,1,0,R$ 260.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-no-terrazzo-ponta-negra-flat-1211478968
+3,NULL,NULL,2,0,R$ 160.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-potengi-codpro01-1372271448
+2,144,1,1,1,R$ 155.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-felipe-camarao-1372263195
+3,NULL,1,3,1,R$ 170.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/otima-casa-com-3-quartos-para-venda-em--cidade-1372172380
+5,NULL,4,3,1,R$ 280.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-construcao-na-r-havana-1372155597
+2,100,2,1,0,R$ 169.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-padrao-casa-na-zona-norte-de-natal-casa-padrao-em-natal-casa-no-bairro-a-igapo-1372130761
+2,65,3,2,0,R$ 219.999,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-ultima-unidade-em-ponta-negra-1293774419
+2,77,1,2,0,R$ 255.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/apartamento-em-capim-macio-1319739760
+2,170,2,1,0,R$ 200.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-cod-rn-16-1356390791
+2,NULL,2,3,1,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-1374323011
+3,20100,4,2,1,R$ 200.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-e-troca-casa-1372000430
+2,79000,2,2,1,R$ 220.000,Natal, Petrópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-nova-1371955451
+3,117,2,2,0,R$ 160.000,Natal, Cidade da Esperança,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-para-venda-na-cidade-da-esperanca-ilm-1371928595
+2,NULL,2,2,1,R$ 180.000,Natal, Redinha,https://rn.olx.com.br/rio-grande-do-norte/imoveis/excelente-casa-com-area-gourmet-e-linda-vista-1371852503
+1,NULL,NULL,1,1,R$ 200.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-condominio-com-4-casas-na-vila-paraiso-1371785207
+3,300,2,2,0,R$ 220.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-capim-macio-brt08-1371690658
+4,280,2,3,1,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-no-potengi-1371679115
+3,133,2,2,0,R$ 280.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/candelaria-ah43-1371669577
+4,130,1,4,0,R$ 210.000,Natal, Nordeste,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-residencial-em-natal-rn-bairro-nordeste-1371666541
+3,200,2,1,0,R$ 290.000,Natal, Neópolis,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-no-bairro-neopolis-conjunto-pirangi-1371660719
+3,200,2,2,0,R$ 160.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-brt07-1371657059
+5,NULL,1,5,1,R$ 200.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-casa-com-quatro-kitnets-1371655950
+3,NULL,NULL,2,0,R$ 150.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-nova-descoberta-a-venda-cod-olx103-1355808262
+4,200,2,2,1,R$ 180.000,Natal, Potengi,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-grande-10-20-sendo-2-duas-casas-como-mostra-as-fotos-1371616253
+3,NULL,2,2,0,R$ 160.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-barro-vermelho-a-venda-cod-olx102-1355804176
+2,112,NULL,1,1,R$ 200.000,Natal, Planalto,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-esse-predio-no-planalto-1371589674
+3,NULL,2,2,0,R$ 170.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-cod-olx111-1355832967
+2,154,2,2,0,R$ 280.000,Natal, Capim Macio,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-capim-macio-re400-1371576042
+2,94,2,2,1,R$ 150.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/so-venda-1371547323
+3,200,3,2,0,R$ 220.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/oferta-casa-3-4-suite-200m-no-pitimbu-xh00xq-1371546478
+2,NULL,NULL,2,1,R$ 280.000,Natal, Lagoa Azul,https://rn.olx.com.br/rio-grande-do-norte/imoveis/vendo-terreno-620m-ao-lado-do-sup-bom-dia-lagoa-azul-1371509571
+3,200,2,2,1,R$ 180.000,Natal, Pitimbu,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-vendas-1371495260
+2,99,2,1,1,R$ 150.000,Natal, Barro Vermelho,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-a-venda-em-otima-localizacao-1371487555
+2,87,1,1,0,R$ 250.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-duplex-no-condominio-village-de-ponta-negra-1326991744
+3,152,1,1,0,R$ 240.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/a-casa-que-voce-procurava-para-morar-conjunto-pajucara-1371341170
+4,140,1,3,0,R$ 185.000,Natal, Pajuçara,https://rn.olx.com.br/rio-grande-do-norte/imoveis/agende-sua-visita-e-conheca-seu-novo-lar-no-conjunto-pajucara-1371341158
+3,NULL,1,3,1,R$ 180.000,Natal, Felipe Camarão,https://rn.olx.com.br/rio-grande-do-norte/imoveis/imovel-com-ponto-comercial-e-2-kitnet-em-felipe-camarao-1371293056
+3,190,2,2,0,R$ 170.000,Natal, Ponta Negra,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-ponta-negra-cod-rnf-11-1371215185
+3,NULL,NULL,1,1,R$ 280.000,Natal, Igapó,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-no-igapo-1371208425
+2,110,2,1,0,R$ 150.000,Natal, Candelária,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-candelaria-s30-1319131948
+2,140,2,1,0,R$ 180.000,Natal, Nova Descoberta,https://rn.olx.com.br/rio-grande-do-norte/imoveis/casa-em-nova-descoberta-s22-1319123866

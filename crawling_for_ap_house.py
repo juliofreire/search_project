@@ -38,7 +38,7 @@ firefox.maximize_window()
 # Accessing the url and doing some stuffs
 firefox.get(url)
 
-time.sleep(5)
+# time.sleep(5)
 
 xpath = '//*[@id="adopt-accept-all-button"]'
 cookies_button = WebDriverWait(firefox, 10).until(
@@ -77,7 +77,7 @@ def checkboxes(type_of_property):
     match type_of_property:
         case "house":
             xpath_house = '/html/body/div[1]/div[1]/main/div[2]/div/div/div/div/div/div[2]/fieldset/fieldset[1]/ul/li[2]/label/label/input'
-            checkbox_house = WebDriverWait(firefox, 10).until(
+            checkbox_house = WebDriverWait(firefox, 15).until(
                 EC.element_to_be_clickable((By.XPATH, xpath_house))
             )
             if not checkbox_house.is_selected():
@@ -109,6 +109,7 @@ def checkboxes(type_of_property):
                 checkbox_apartament.click()
 
 
+time.sleep(3)
 checkboxes(type_of_property)
 
 time.sleep(2)
@@ -189,12 +190,13 @@ def find_house_location(house_section):
     house_location = house_section.find_element(By.XPATH, ".//div[2]/div[2]/div/div/div[1]/p")
     return house_location.text
 
-def add_house_link(house_section):
+def find_house_link(house_section):
     WebDriverWait(firefox, 10).until(
         EC.presence_of_element_located((By.XPATH, './/a'))
     )
-    house_link = house_section.find_element(By.XPATH, ".//a")
-    return house_link.text
+    house_href = house_section.find_element(By.XPATH, ".//a")
+    house_link = house_href.get_attribute("href")
+    return house_link
 
 
 def crawl_house_info(index=0, dict_houses_info=None):
@@ -215,12 +217,12 @@ def crawl_house_info(index=0, dict_houses_info=None):
         house_info = find_house_info(ul_section)
         house_price = find_house_price(section)
         house_location = find_house_location(section)
+        house_link = find_house_link(section)
 
         if ADD_LINK == False:
             dict_houses_info[index]={"house_info": house_info, "house_price": house_price, \
                                  "house_location": house_location}
         else:
-            house_link = add_house_link(section)
             dict_houses_info[index]={"house_info": house_info, "house_price": house_price, \
                                  "house_location": house_location, "house_link": house_link}
             
@@ -229,11 +231,11 @@ def crawl_house_info(index=0, dict_houses_info=None):
     return index, dict_houses_info
 
 
-def crawl_pages(index=0, dict_houses=None):
+def crawl_pages(index=0, dict_houses=None, limitter=100):
 
     next_page_up = True
-    limitter = 0
-    while next_page_up == True and limitter < 3:
+    pages = 0
+    while next_page_up == True and pages < limitter:
         try:
             index, dict_houses = crawl_house_info(index, dict_houses)
 
@@ -256,7 +258,7 @@ def crawl_pages(index=0, dict_houses=None):
             time.sleep(3)
             next_page_button.click()
             time.sleep(2)
-            limitter+=1
+            pages+=1
         except NoSuchElementException:
             next_page_up == False
 
@@ -264,7 +266,8 @@ def crawl_pages(index=0, dict_houses=None):
 
 index = 0
 dict_houses = {}
-i, d = crawl_pages(index, dict_houses)
+i, d = crawl_pages(index, dict_houses, 5)
+print(d)
 
 firefox.quit()
 

@@ -1,0 +1,563 @@
+{
+    "0": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "62",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 170.000",
+        "house_location": "Natal, Planalto"
+    },
+    "1": {
+        "house_info": {
+            "quartos": "1",
+            "m2_quadrado": "1",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 250.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "2": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "57",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 295.000",
+        "house_location": "Natal, Capim Macio"
+    },
+    "3": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "80",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 250.000",
+        "house_location": "Natal, Candelária"
+    },
+    "4": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "48",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 220.000",
+        "house_location": "Natal, Pitimbu"
+    },
+    "5": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "74",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 180.000",
+        "house_location": "Natal, Capim Macio"
+    },
+    "6": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "59",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 249.999",
+        "house_location": "Natal, Barro Vermelho"
+    },
+    "7": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "61",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 279.900",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "8": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "58",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 265.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "9": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "45",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 180.000",
+        "house_location": "Natal, Pajuçara"
+    },
+    "10": {
+        "house_info": {
+            "quartos": "1",
+            "m2_quadrado": "45",
+            "garagem": "NULL",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 160.000",
+        "house_location": "Natal, Pajuçara"
+    },
+    "11": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "82",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 220.000",
+        "house_location": "Natal, Candelária"
+    },
+    "12": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "62",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 240.000",
+        "house_location": "Natal, Lagoa Nova"
+    },
+    "13": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "75",
+            "garagem": "NULL",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 250.000",
+        "house_location": "Natal, Lagoa Nova"
+    },
+    "14": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "58",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 285.000",
+        "house_location": "Natal, Nova Descoberta"
+    },
+    "15": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "115",
+            "garagem": "2",
+            "banheiros": "3",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 290.000",
+        "house_location": "Natal, Tirol"
+    },
+    "16": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "57",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 250.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "17": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "87",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 300.000",
+        "house_location": "Natal, Petrópolis"
+    },
+    "18": {
+        "house_info": {
+            "quartos": "1",
+            "m2_quadrado": "37",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 295.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "19": {
+        "house_info": {
+            "quartos": "4",
+            "m2_quadrado": "10",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 150.000",
+        "house_location": "Natal, Felipe Camarão"
+    },
+    "20": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "130",
+            "garagem": "2",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 160.000",
+        "house_location": "Natal, Cidade da Esperança"
+    },
+    "21": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "130",
+            "garagem": "2",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 150.000",
+        "house_location": "Natal, Potengi"
+    },
+    "22": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "110",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 180.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "23": {
+        "house_info": {
+            "quartos": "1",
+            "m2_quadrado": "58",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 300.000",
+        "house_location": "Natal, Petrópolis"
+    },
+    "24": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "180",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 185.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "25": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "57",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 280.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "26": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "160",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 218.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "27": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "150",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 160.000",
+        "house_location": "Natal, Pitimbu"
+    },
+    "28": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "60",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 270.000",
+        "house_location": "Natal, Rocas"
+    },
+    "29": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "77",
+            "garagem": "1",
+            "banheiros": "3",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 284.000",
+        "house_location": "Natal, Capim Macio"
+    },
+    "30": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "NULL",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 150.000",
+        "house_location": "Natal, Potengi"
+    },
+    "31": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "160",
+            "garagem": "NULL",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 300.000",
+        "house_location": "Natal, Felipe Camarão"
+    },
+    "32": {
+        "house_info": {
+            "quartos": "5",
+            "m2_quadrado": "460",
+            "garagem": "5",
+            "banheiros": "5",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 270.000",
+        "house_location": "Natal, Potengi"
+    },
+    "33": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "80",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 160.000",
+        "house_location": "Natal, Lagoa Nova"
+    },
+    "34": {
+        "house_info": {
+            "quartos": "4",
+            "m2_quadrado": "220",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 300.000",
+        "house_location": "Natal, Bom Pastor"
+    },
+    "35": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "49",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 199.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "36": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "54",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 150.000",
+        "house_location": "Natal, Pajuçara"
+    },
+    "37": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 200.000",
+        "house_location": "Natal, Cidade da Esperança"
+    },
+    "38": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 150.000",
+        "house_location": "Natal, Barro Vermelho"
+    },
+    "39": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "54",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 299.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "40": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 250.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "41": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "170",
+            "garagem": "2",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 300.000",
+        "house_location": "Natal, Neópolis"
+    },
+    "42": {
+        "house_info": {
+            "quartos": "1",
+            "m2_quadrado": "33",
+            "garagem": "5",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 295.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "43": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 200.000",
+        "house_location": "Natal, Potengi"
+    },
+    "44": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "98",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 230.000",
+        "house_location": "Natal, Tirol"
+    },
+    "45": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "55",
+            "garagem": "1",
+            "banheiros": "1",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 249.900",
+        "house_location": "Natal, Pitimbu"
+    },
+    "46": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "56",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 170.000",
+        "house_location": "Natal, Ponta Negra"
+    },
+    "47": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "55",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 275.000",
+        "house_location": "Natal, Cidade da Esperança"
+    },
+    "48": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "51",
+            "garagem": "1",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 270.000",
+        "house_location": "Natal, Candelária"
+    },
+    "49": {
+        "house_info": {
+            "quartos": "2",
+            "m2_quadrado": "54",
+            "garagem": "2",
+            "banheiros": "2",
+            "direto com o proprietario": 0
+        },
+        "house_price": "R$ 205.000",
+        "house_location": "Natal, Pajuçara"
+    },
+    "50": {
+        "house_info": {
+            "quartos": "3",
+            "m2_quadrado": "NULL",
+            "garagem": "2",
+            "banheiros": "1",
+            "direto com o proprietario": 1
+        },
+        "house_price": "R$ 170.000",
+        "house_location": "Natal, Igapó"
+    }
+}
